@@ -22,7 +22,7 @@
       {
         "id": 4,
         "title": "What is the future of Computer Architecture",
-        "image": "/computer architecture.jpg",
+        "image": "computer architecture.jpg",
         "category": "Research",
         "author": "Rashi Bajpai",
         "authorPic": "author1.jpg",
@@ -44,7 +44,7 @@
     {
         "id": 5,
         "title": "Youtube VS Ad-blockers",
-        "image": "/yt.jpg",
+        "image": "yt.jpg",
         "category": "Research",
         "author": "Pranita Kute",
         "authorPic": "author1.jpg",
@@ -63,7 +63,7 @@
     {
         "id": 6,
         "title": "The role of AI in combating Deep Fakes",
-        "image": "/HOW.jpg",
+        "image": "HOW.jpg",
         "category": "Technology",
         "author": "Pranita Kute",
         "authorPic": "author1.jpg",
@@ -84,7 +84,7 @@
     {
       "id": 7,
       "title": "Witness the World's Largest Digital Camera: It's as Big as a Car! OR Eyes on Infinity",
-      "image": "/camera.jpg",
+      "image": "camera.jpg",
       "category": "Technology",
       "author": "Pranita Kute",
       "authorPic": "author1.jpg",
@@ -106,7 +106,7 @@
     {
       "id": 8,
       "title": "AI: The Bullshit Bingo of the 21st Century",
-      "image": "/chip.jpg",
+      "image": "chip.jpg",
       "category": "Artificial Intelligence",
       "author": "Gaurang Pant",
       "authorPic": "author1.jpg",
@@ -132,7 +132,7 @@
     {
       "id": 9,
       "title": "How AI Can Tailor Content to Individual Attention Spans",
-      "image": "/chronically.png",
+      "image": "chronically.png",
       "category": "Artificial Intelligence",
       "author": "Anant Gangwar",
       "authorPic": "author1.jpg",
